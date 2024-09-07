@@ -6,8 +6,8 @@ This project focuses on analyzing the competitive landscape of laptop sleeve pro
 ## Project Structure
 - **Data Collection:** Gathered sales data, pricing information, product descriptions, and customer reviews from Tokopedia.
 - **Data Cleaning:** Processed and cleaned the data to ensure accuracy and consistency.
-- **Exploratory Data Analysis (EDA):** Performed EDA to identify key patterns, trends, and outliers.
-- **Visualization:** Created visualizations to illustrate the findings using Tableau.
+- **Exploratory Data Analysis (EDA):** Performed EDA to identify key pattern and trends
+- **Visualization:** Created visualizations to illustrate the findings using Tableau..
 
 ## Data Sources
 - Sales and pricing data from Tokopedia's laptop sleeve products.

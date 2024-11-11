@@ -42,7 +42,9 @@ Explore the interactive visualizations of this analysis on my Tableau dashboard.
 
 ## How to Use This Project
 Review the Findings: Start by understanding the key insights from the analysis.
+
 Explore the Dashboard: Use the Tableau dashboard to interact with the data and visualizations.
+
 Apply the Recommendations: Implement the suggested strategies to improve product offerings and market performance.
 
 ## About Me
